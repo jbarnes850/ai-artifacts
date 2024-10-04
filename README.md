@@ -75,7 +75,7 @@ While experimenting with NEAR Sandbox, you might also find these tools helpful:
    npm i
    ```
 
-### 3. Set the environment variables
+3. Set the environment variables
 
 Create a `.env.local` file and set the following:
 
@@ -95,7 +95,7 @@ GOOGLE_AI_API_KEY=
 MISTRAL_API_KEY=
 ```
 
-### 4. Start the development server
+4. Start the development server
 
 ```bash
 npm run dev
