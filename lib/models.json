@@ -153,6 +153,13 @@
       "providerId": "openai",
       "name": "GPT-4o NEAR Fine-tuned",
       "multiModal": true
+    },
+    {
+      "id": "deepseek-coder-v2",
+      "provider": "Ollama",
+      "providerId": "ollama",
+      "name": "DeepSeek Coder V2",
+      "multiModal": false
     }
   ]
 }
