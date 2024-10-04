@@ -1,6 +1,7 @@
 {
-  "name": "anthropic-power-artifacts",
-  "version": "0.1.0",
+  "name": "near-sandbox",
+  "version": "1.0.0",
+  "description": "AI-powered code generation and execution for the NEAR ecosystem",
   "private": true,
   "scripts": {
     "dev": "next dev --turbo",

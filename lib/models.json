@@ -146,6 +146,13 @@
       "providerId": "ollama",
       "name": "Mistral Large",
       "multiModal": false
+    },
+    {
+      "id": "ft:gpt-4o-2024-08-06:personal:near-ecosystem:AB2aZGVL",
+      "provider": "OpenAI",
+      "providerId": "openai",
+      "name": "GPT-4o NEAR Fine-tuned",
+      "multiModal": true
     }
   ]
 }

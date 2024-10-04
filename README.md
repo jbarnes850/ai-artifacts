@@ -1,12 +1,12 @@
-# Fragments by E2B
+# NEAR Sandbox
 
-This is an open source version of [Anthropic's Claude Artifacts](https://www.anthropic.com/news/claude-3-5-sonnet), Vercel [v0](https://v0.dev) and [GPT Engineer](https://gptengineer.app).
+This is an open source version of [Anthropic's Claude Artifacts](https://www.anthropic.com/news/claude-3-5-sonnet), Vercel [v0](https://v0.dev) and [GPT Engineer](https://gptengineer.app), customized for the NEAR ecosystem.
 
 Powered by [E2B Sandbox SDK](https://github.com/e2b-dev/e2b) and [Code Interpreter SDK](https://github.com/e2b-dev/code-interpreter).
 
 ![Preview](preview.png)
 
-[→ Try on fragments.e2b.dev](https://fragments.e2b.dev)
+[→ Try on sandbox.near.org](https://sandbox.near.org)
 
 ## Features
 
@@ -32,7 +32,7 @@ Powered by [E2B Sandbox SDK](https://github.com/e2b-dev/e2b) and [Code Interpret
 
 **Make sure to give us a star!**
 
-<img width="165" alt="Screenshot 2024-04-20 at 22 13 32" src="https://github.com/mishushakov/llm-scraper/assets/10400064/11e2a79f-a835-48c4-9f85-5c104ca7bb49">
+<img width="165" alt="NEAR Icon" src="/public/near-icon.png">
 
 ## Get started
 

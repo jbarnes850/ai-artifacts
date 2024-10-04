@@ -58,24 +58,24 @@ export function DeployDialog({
       <DropdownMenuTrigger asChild>
         <Button variant="default">
           <Logo style="e2b" width={16} height={16} className="mr-2" />
-          Deploy to E2B
+          Deploy to NEAR
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent className="p-4 w-80 flex flex-col gap-2">
-        <div className="text-sm font-semibold">Deploy to E2B</div>
+        <div className="text-sm font-semibold">Deploy to NEAR</div>
         <div className="text-sm text-muted-foreground">
-          Deploying the fragment will make it publicly accessible to others via
+          Deploying the Sandbox will make it publicly accessible to others via
           link.
         </div>
         <div className="text-sm text-muted-foreground">
-          The fragment will be available up until the expiration date you choose
+          The Sandbox will be available up until the expiration date you choose
           and you&apos;ll be billed based on our{' '}
           <a
-            href="https://e2b.dev/docs/pricing"
+            href="https://docs.near.org"
             target="_blank"
             className="underline"
           >
-            Compute pricing
+            hosting costs
           </a>
           .
         </div>

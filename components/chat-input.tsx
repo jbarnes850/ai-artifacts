@@ -176,13 +176,13 @@ export function ChatInput({
         </div>
       </div>
       <p className="text-xs text-muted-foreground mt-2 text-center">
-        Fragments is an open-source project made by{' '}
+        Sandbox is an open-source project made by{' '}
         <a
-          href="https://e2b.dev"
+          href="https://near.org/ai"
           target="_blank"
           className="text-[#ff8800]"
         >
-          ✶ E2B
+          ✶ NEAR
         </a>
       </p>
     </form>
