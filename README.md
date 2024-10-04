@@ -101,7 +101,7 @@ MISTRAL_API_KEY=
 npm run dev
 ```
 
-### 5. Build the web app
+5. Build the web app
 
 ```bash
 npm run build
