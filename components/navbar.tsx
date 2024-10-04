@@ -61,7 +61,7 @@ export function NavBar({
         </Link>
         <Link
           href="https://near.org/ai"
-          className="underline decoration-[rgba(229,123,0,.3)] decoration-2 text-[#ff8800]"
+          className="underline decoration-[rgba(0,236,151,.3)] decoration-2 text-[#00ec97]"
           target="_blank"
         >
           NEAR
@@ -146,11 +146,11 @@ export function NavBar({
               <DropdownMenuSeparator />
               <DropdownMenuItem
                 onClick={() => {
-                  window.open('https://e2b.dev', '_blank')
+                  window.open('https://near.org/ai', '_blank')
                 }}
               >
                 <Logo className="mr-2 h-4 w-4 text-muted-foreground" />
-                About E2B
+                About NEAR
               </DropdownMenuItem>
               <DropdownMenuItem onClick={() => onSocialClick('github')}>
                 <GitHubLogoIcon className="mr-2 h-4 w-4 text-muted-foreground" />

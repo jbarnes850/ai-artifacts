@@ -180,9 +180,9 @@ export function ChatInput({
         <a
           href="https://near.org/ai"
           target="_blank"
-          className="text-[#ff8800]"
+          className="text-[#00ec97]"
         >
-          ✶ NEAR
+          NEAR
         </a>
       </p>
     </form>
