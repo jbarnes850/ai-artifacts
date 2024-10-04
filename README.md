@@ -30,10 +30,6 @@ Powered by [E2B Sandbox SDK](https://github.com/e2b-dev/e2b) and [Code Interpret
   - 🔸 Together AI
   - 🔸 Ollama
 
-**Make sure to give us a star!**
-
-<img width="165" alt="NEAR Icon" src="/public/near-icon.png">
-
 ## Get started
 
 ### Prerequisites
