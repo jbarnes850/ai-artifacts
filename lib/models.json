@@ -29,13 +29,6 @@
       "multiModal": true
     },
     {
-      "id": "gpt-4-turbo",
-      "provider": "OpenAI",
-      "providerId": "openai",
-      "name": "GPT-4 Turbo",
-      "multiModal": true
-    },
-    {
       "id": "claude-3-5-sonnet-20240620",
       "provider": "Anthropic",
       "providerId": "anthropic",
@@ -43,31 +36,17 @@
       "multiModal": true
     },
     {
-      "id": "gemini-1.5-pro-002",
-      "provider": "Google Vertex AI",
-      "providerId": "vertex",
-      "name": "Gemini Pro",
-      "multiModal": true
-    },
-    {
-      "id": "gemini-1.5-flash-002",
-      "provider": "Google Vertex AI",
-      "providerId": "vertex",
-      "name": "Gemini Flash",
-      "multiModal": true
-    },
-    {
       "id": "models/gemini-1.5-pro-002",
       "provider": "Google Generative AI",
       "providerId": "google",
-      "name": "Gemini Pro",
+      "name": "Gemini Pro 1.5",
       "multiModal": true
     },
     {
       "id": "models/gemini-1.5-flash-002",
       "provider": "Google Generative AI",
       "providerId": "google",
-      "name": "Gemini Flash",
+      "name": "Gemini Flash 1.5",
       "multiModal": true
     },
     {
@@ -151,7 +130,7 @@
       "id": "ft:gpt-4o-2024-08-06:personal:near-ecosystem:AB2aZGVL",
       "provider": "OpenAI",
       "providerId": "openai",
-      "name": "GPT-4o NEAR Fine-tuned",
+      "name": "GPT-4o NEAR Fine-Tuned",
       "multiModal": true
     },
     {
